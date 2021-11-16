@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usuarioss", "usuarioss\usuarioss.csproj", "{9A0C94DC-D79D-4846-9E7B-8DFDD05E2C52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accesodatos.ClassLibrary1", "Accesodatos.ClassLibrary1\Accesodatos.ClassLibrary1.csproj", "{6CE2F5D1-C06D-43DA-8DA2-09A1DF783C1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logica.ClassLibrary1", "logica.ClassLibrary1\logica.ClassLibrary1.csproj", "{2E5732DA-2E24-47D8-96A7-4ED071F8D431}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{9A0C94DC-D79D-4846-9E7B-8DFDD05E2C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A0C94DC-D79D-4846-9E7B-8DFDD05E2C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A0C94DC-D79D-4846-9E7B-8DFDD05E2C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE2F5D1-C06D-43DA-8DA2-09A1DF783C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE2F5D1-C06D-43DA-8DA2-09A1DF783C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE2F5D1-C06D-43DA-8DA2-09A1DF783C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE2F5D1-C06D-43DA-8DA2-09A1DF783C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E5732DA-2E24-47D8-96A7-4ED071F8D431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5732DA-2E24-47D8-96A7-4ED071F8D431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5732DA-2E24-47D8-96A7-4ED071F8D431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5732DA-2E24-47D8-96A7-4ED071F8D431}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

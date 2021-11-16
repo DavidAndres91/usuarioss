@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 18.625, 21.875" name="DCMATRICULA">
+  <DataContextMoniker Name="/DCMATRICULADataContext" />
+  <nestedChildShapes>
+    <classShape Id="1a19ab46-b097-4cc1-baa3-258a7715109c" absoluteBounds="8.375, 19.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/DCMATRICULADataContext/canton" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c99c4f5c-0f5c-4e38-b628-439f0aac4631" absoluteBounds="8.39, 19.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="11f056f3-10a2-426e-a5f2-1b98649005bd" absoluteBounds="5.625, 6, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/DCMATRICULADataContext/clasevehiculo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d486838e-cb63-4018-85a9-cea58780476d" absoluteBounds="5.64, 6.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d09041e1-9d9f-4346-8ca8-d98050ca5d53" absoluteBounds="5.625, 2.5, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/DCMATRICULADataContext/color" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0f6923eb-f39c-4784-97d4-a65f5b970f32" absoluteBounds="5.64, 2.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6ca4c4f9-e525-4609-a2ea-86fcd3aad877" absoluteBounds="11.125, 9.75, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/DCMATRICULADataContext/discapacidad" />
+      <nestedChildShapes>
+        <elementListCompartment Id="faa680ee-e913-4d0f-a617-6bc8405e0604" absoluteBounds="11.14, 10.21, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="570708eb-1e35-4636-99b6-f199a0166561" absoluteBounds="6.375, 16.875, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/DCMATRICULADataContext/marca" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6289feda-62b6-4fa8-ba6c-957f8c43c8b3" absoluteBounds="6.3900000000000006, 17.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2c60b0d5-b0bc-47b9-999c-05020832cda6" absoluteBounds="11.125, 2.375, 2, 2.347801106770834">
+      <DataClassMoniker Name="/DCMATRICULADataContext/matricula" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ea3cb78d-dc1b-4db1-a5ab-781fedd9e0f1" absoluteBounds="11.14, 2.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fdc67c6f-8e77-4ef4-814e-c0c9d3dfa9b5" absoluteBounds="5.625, 13.875, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/DCMATRICULADataContext/modelo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e8ed61c0-b381-40bc-b1e4-6d83dded96ed" absoluteBounds="5.64, 14.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6212da37-c35c-415e-b119-21ee712aa821" absoluteBounds="5.625, 11.125, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/DCMATRICULADataContext/pais" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5487b029-f43e-4a37-8cb1-aee15c049f1c" absoluteBounds="5.64, 11.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7367b006-bdd6-4e04-a3d2-be4d880b3f4b" absoluteBounds="8.375, 9.375, 2, 3.5016097005208309">
+      <DataClassMoniker Name="/DCMATRICULADataContext/persona" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5e7a8d15-c88a-4668-a451-74f1a8b6622b" absoluteBounds="8.39, 9.835, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a727a75d-2f7f-4abe-8d1c-2d14e3ee2c47" absoluteBounds="5.625, 19.5, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/DCMATRICULADataContext/provincia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="42a5dfef-34d9-4336-b5e3-98b0cd3c9a52" absoluteBounds="5.64, 19.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ebc3e259-9dc4-4bf2-83eb-646b10acd089" absoluteBounds="13.625, 1, 2, 1.9631982421875003">
+      <DataClassMoniker Name="/DCMATRICULADataContext/rol" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e726b9a5-795e-493f-a6d6-5630c03721e5" absoluteBounds="13.64, 1.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ad920489-9ba2-4d06-84a0-83754e027f13" absoluteBounds="8.375, 14.125, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/DCMATRICULADataContext/tipodiscapacidad" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e8a4364c-fc2a-4bfe-9fde-da9d03effce8" absoluteBounds="8.39, 14.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f62169f3-56ae-430c-8fbe-c5e2b3cc960f" absoluteBounds="5.625, 8.625, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/DCMATRICULADataContext/tipovehiculo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="db86032a-8799-46b9-bcc4-271f874a46d9" absoluteBounds="5.64, 9.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d0d09d2e-51cf-4991-b11d-d488a9e1d064" absoluteBounds="16.375, 0.625, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/DCMATRICULADataContext/Usuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="55ae4354-03bf-4ede-89fb-60e612182f9b" absoluteBounds="16.39, 1.085, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0d595999-a3b5-448c-91f3-577a91d3772c" absoluteBounds="8.375, 0.75, 2, 5.6169254557291666">
+      <DataClassMoniker Name="/DCMATRICULADataContext/vehiculo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3d1d0112-f22d-4dad-ab55-ea61cd40a174" absoluteBounds="8.39, 1.21, 1.9700000000000002, 5.0569254557291661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(10.375 : 19.5); (10.75 : 19.125); (10.75 : 3.54890055338542); (11.125 : 3.54890055338542)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DCMATRICULADataContext/canton/canton_matricula" />
+      <nodes>
+        <classShapeMoniker Id="1a19ab46-b097-4cc1-baa3-258a7715109c" />
+        <classShapeMoniker Id="2c60b0d5-b0bc-47b9-999c-05020832cda6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7 : 16.875); (7 : 15.8381982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DCMATRICULADataContext/marca/marca_modelo" />
+      <nodes>
+        <classShapeMoniker Id="570708eb-1e35-4636-99b6-f199a0166561" />
+        <classShapeMoniker Id="fdc67c6f-8e77-4ef4-814e-c0c9d3dfa9b5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.375 : 11.1162019856771); (10.6666666666667 : 11.1162019856771 : JumpStart); (10.8333333333333 : 11.1162019856771 : JumpEnd); (11.125 : 11.1162019856771)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DCMATRICULADataContext/persona/persona_discapacidad" />
+      <nodes>
+        <classShapeMoniker Id="7367b006-bdd6-4e04-a3d2-be4d880b3f4b" />
+        <classShapeMoniker Id="6ca4c4f9-e525-4609-a2ea-86fcd3aad877" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.375 : 9.43653746153846); (10.6910744349011 : 9.12046302663734 : JumpStart); (10.8089255650989 : 9.00261189643958 : JumpEnd); (10.9375 : 8.87403746153846); (10.9375 : 4.16710283007813); (11.125 : 4.16710283007813)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DCMATRICULADataContext/persona/persona_matricula" />
+      <nodes>
+        <classShapeMoniker Id="7367b006-bdd6-4e04-a3d2-be4d880b3f4b" />
+        <classShapeMoniker Id="2c60b0d5-b0bc-47b9-999c-05020832cda6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.625 : 20.4815991210938); (8.375 : 20.4815991210938)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DCMATRICULADataContext/provincia/provincia_canton" />
+      <nodes>
+        <classShapeMoniker Id="a727a75d-2f7f-4abe-8d1c-2d14e3ee2c47" />
+        <classShapeMoniker Id="1a19ab46-b097-4cc1-baa3-258a7715109c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.375 : 15.1065991210938); (10.6666666666667 : 15.1065991210938 : JumpStart); (10.8333333333333 : 15.1065991210938 : JumpEnd); (12.125 : 15.1065991210938); (12.125 : 12.4824039713542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DCMATRICULADataContext/tipodiscapacidad/tipodiscapacidad_discapacidad" />
+      <nodes>
+        <classShapeMoniker Id="ad920489-9ba2-4d06-84a0-83754e027f13" />
+        <classShapeMoniker Id="6ca4c4f9-e525-4609-a2ea-86fcd3aad877" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(15.625 : 1.98159912109375); (16.375 : 1.98159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DCMATRICULADataContext/rol/rol_Usuario" />
+      <nodes>
+        <classShapeMoniker Id="ebc3e259-9dc4-4bf2-83eb-646b10acd089" />
+        <classShapeMoniker Id="d0d09d2e-51cf-4991-b11d-d488a9e1d064" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.375 : 2.89945027669271); (11.125 : 2.89945027669271)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DCMATRICULADataContext/vehiculo/vehiculo_matricula" />
+      <nodes>
+        <classShapeMoniker Id="0d595999-a3b5-448c-91f3-577a91d3772c" />
+        <classShapeMoniker Id="2c60b0d5-b0bc-47b9-999c-05020832cda6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.625 : 3.48159912109375); (8.10416666666667 : 3.48159912109375 : JumpStart); (8.27083333333333 : 3.48159912109375 : JumpEnd); (8.375 : 3.48159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DCMATRICULADataContext/color/color_vehiculo" />
+      <nodes>
+        <classShapeMoniker Id="d09041e1-9d9f-4346-8ca8-d98050ca5d53" />
+        <classShapeMoniker Id="0d595999-a3b5-448c-91f3-577a91d3772c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.625 : 11.125); (8 : 10.75); (8 : 4.95551428841146); (8.10416666666667 : 4.95551428841146 : JumpStart); (8.27083333333333 : 4.95551428841146 : JumpEnd); (8.375 : 4.95551428841146)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DCMATRICULADataContext/pais/pais_vehiculo" />
+      <nodes>
+        <classShapeMoniker Id="6212da37-c35c-415e-b119-21ee712aa821" />
+        <classShapeMoniker Id="0d595999-a3b5-448c-91f3-577a91d3772c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.625 : 7.0689116328125); (7.91666666666667 : 7.0689116328125 : JumpStart); (8.27083333333333 : 7.0689116328125 : JumpEnd); (9.375 : 7.0689116328125); (9.375 : 6.36692545572917)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DCMATRICULADataContext/clasevehiculo/clasevehiculo_vehiculo" />
+      <nodes>
+        <classShapeMoniker Id="11f056f3-10a2-426e-a5f2-1b98649005bd" />
+        <classShapeMoniker Id="0d595999-a3b5-448c-91f3-577a91d3772c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.625 : 13.9369152522536); (8.1875 : 13.3744152522536); (8.1875 : 1.80789778027344); (8.375 : 1.80789778027344)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DCMATRICULADataContext/modelo/modelo_vehiculo" />
+      <nodes>
+        <classShapeMoniker Id="fdc67c6f-8e77-4ef4-814e-c0c9d3dfa9b5" />
+        <classShapeMoniker Id="0d595999-a3b5-448c-91f3-577a91d3772c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.625 : 8.68766150250401); (7.94107443490112 : 8.37158706760289 : JumpStart); (8.05892556509888 : 8.25373593740513 : JumpEnd); (8.0625 : 8.25016150250401); (8.0625 : 5.69247187207031); (8.10416666666667 : 5.69247187207031 : JumpStart); (8.27083333333333 : 5.69247187207031 : JumpEnd); (8.375 : 5.69247187207031)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DCMATRICULADataContext/tipovehiculo/tipovehiculo_vehiculo" />
+      <nodes>
+        <classShapeMoniker Id="f62169f3-56ae-430c-8fbe-c5e2b3cc960f" />
+        <classShapeMoniker Id="0d595999-a3b5-448c-91f3-577a91d3772c" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
